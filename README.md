@@ -4,6 +4,10 @@ The open source Windows Mirai Variant
 
 EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS.
 
+### UPDATE: 7/13/19
+
+Working on fixing the C2 server to accept windows bots. Needs testing. More updates on the way
+
 ## Getting Started
 
 Make a pull request, download the file as a zip file.
