@@ -165,7 +165,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 
 
 			unsigned char chReadBuf[256] = { 0 };
-			uint16_t uiLen;	
+			UINT16 uiLen;	
 			/*
 			int retval = recv(maincommsock, (char *)&len,sizeof(len), 0);	
 			printf("retval: %d\n", retval);
