@@ -2,8 +2,6 @@
 // established 2002
 // based out of hoboken NJ
 
-// shoot me an email! augustgl@protonmail.ch
-
 // IMPORTANT NOTE
 // DO NOT CHANGE THE EXTENSION TO .c
 // IT BREAKS IT FOR SOME UNKNOWN REASON
