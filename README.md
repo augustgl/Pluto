@@ -12,6 +12,10 @@ Working on fixing the C2 server to accept windows bots. Needs testing. More upda
 
 Original Mirai C2 server accepts windows clients, so I'm throwing the modified one out the window. Working on making a good read function. More updates on the way!
 
+### UPDATE: 3/10/21
+
+Yeah there's not gonna be more updates lmao. 
+
 ## Getting Started
 
 Make a pull request, download the file as a zip file.
